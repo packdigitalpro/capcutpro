@@ -1,0 +1,95 @@
+HTTrack3.49-2+htsswf+htsjava launched on Fri, 26 Apr 2024 15:17:27 at https://packdigital.click/material-decargable-capcut +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "es, en, *" https://packdigital.click/material-decargable-capcut -O1 "E:\2. paginas\CAPCUT PRO\CAPCUT PRO MATERIAL" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+15:17:52	Warning: 	Retry after error -4 (No data (connection closed)) at link https://packdigital.click/xmlrpc.php?rsd (from https://packdigital.click/material-decargable-capcut)
+15:17:52	Warning: 	Moved Permanently for https://packdigital.click/?p=1136
+15:17:52	Warning: 	File has moved from https://packdigital.click/?p=1136 to https://packdigital.click/material-decargable-capcut/
+15:17:52	Warning: 	Retry after error -4 (No data (connection closed)) at link https://packdigital.click/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fpackdigital.click%2Fmaterial-decargable-capcut%2F (from https://packdigital.click/material-decargable-capcut)
+15:17:52	Warning: 	Retry after error -4 (No data (connection closed)) at link https://packdigital.click/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fpackdigital.click%2Fmaterial-decargable-capcut%2F&format=xml (from https://packdigital.click/material-decargable-capcut)
+15:18:00	Warning: 	Retry after error -4 (No data (connection closed)) at link https://packdigital.click/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-regular-400.eot (from https://packdigital.click/wp-content/plugins/elementor/assets/lib/font-awesome/css/regular.min.css?ver=5.15.3)
+15:18:01	Warning: 	Retry after error -4 (No data (connection closed)) at link https://packdigital.click/xmlrpc.php?rsd (from https://packdigital.click/material-decargable-capcut)
+15:18:02	Warning: 	Retry after error -4 (No data (connection closed)) at link https://packdigital.click/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fpackdigital.click%2Fmaterial-decargable-capcut%2F (from https://packdigital.click/material-decargable-capcut)
+15:18:15	Warning: 	Moved Permanently for https://packdigital.click/?p=896
+15:18:15	Warning: 	File has moved from https://packdigital.click/?p=896 to https://packdigital.click/cuenta-educativa/
+15:21:10	Error: 	Exit requested by shell or user
+15:21:10	Warning: 	File not added due to mirror cancel: https://packdigital.click/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fpackdigital.click%2Fwelcome-to-cloudways%2F
+15:21:15	Error: 	"No data (connection closed)" (-4) after 2 retries at link https://packdigital.click/xmlrpc.php?rsd (from https://packdigital.click/material-decargable-capcut)
+15:21:15	Warning: 	Retry after error -4 (No data (connection closed)) at link https://packdigital.click/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.woff (from https://packdigital.click/wp-content/plugins/elementor/assets/lib/font-awesome/css/solid.min.css?ver=5.15.3)
+15:21:16	Error: 	"Not Found" (404) at link https://packdigital.click/a (from https://connect.facebook.net/en_US/fbevents.js)
+15:21:16	Error: 	"Not Found" (404) at link https://packdigital.click/POST (from https://connect.facebook.net/en_US/fbevents.js)
+15:21:16	Error: 	"Not Found" (404) at link https://packdigital.click/schema.org/ (from https://connect.facebook.net/en_US/fbevents.js)
+15:21:16	Error: 	"Not Found" (404) at link https://packdigital.click/b.resolvedLink (from https://connect.facebook.net/en_US/fbevents.js)
+15:21:16	Error: 	"Not Found" (404) at link https://packdigital.click/signals/iwl.js (from https://connect.facebook.net/en_US/fbevents.js)
+15:21:16	Warning: 	Moved Permanently for https://packdigital.click/?p=223
+15:21:16	Warning: 	File has moved from https://packdigital.click/?p=223 to https://packdigital.click/canva-pro-e/
+15:21:16	Warning: 	Retry after error -4 (No data (connection closed)) at link https://packdigital.click/wp-content/uploads/2023/01/photo_2022-11-22_15-51-51.jpg (from https://packdigital.click/canva-pro-e/)
+15:21:16	Warning: 	Retry after error -4 (No data (connection closed)) at link https://packdigital.click/wp-content/uploads/2023/01/photo_2022-11-22_16-07-45.jpg (from https://packdigital.click/canva-pro-e/)
+15:21:16	Warning: 	Retry after error -4 (No data (connection closed)) at link https://packdigital.click/wp-content/uploads/2023/01/photo_2022-11-22_16-07-48.jpg (from https://packdigital.click/canva-pro-e/)
+15:21:16	Warning: 	Moved Permanently for https://packdigital.click/?p=139
+15:21:16	Warning: 	File has moved from https://packdigital.click/?p=139 to https://packdigital.click/canva-pro/
+15:21:16	Warning: 	Moved Permanently for https://packdigital.click/?p=989
+15:21:16	Warning: 	File has moved from https://packdigital.click/?p=989 to https://packdigital.click/canva-pro-2024-js/
+15:21:16	Warning: 	Moved Permanently for https://packdigital.click/?p=996
+15:21:16	Warning: 	File has moved from https://packdigital.click/?p=996 to https://packdigital.click/canva-pro-2024/
+15:21:16	Warning: 	Retry after error -4 (No data (connection closed)) at link https://packdigital.click/?p=659 (from https://packdigital.click/canva-pro-2/)
+15:21:16	Warning: 	Moved Permanently for https://packdigital.click/?p=145
+15:21:16	Warning: 	File has moved from https://packdigital.click/?p=145 to https://packdigital.click/canva-pro-w/
+15:21:17	Warning: 	Retry after error -4 (No data (connection closed)) at link https://packdigital.click/wp-content/uploads/2023/07/n1ixozitmrg7bsby9lc7-1024x173-1-1.webp (from https://packdigital.click/canva-pro-w/)
+15:21:17	Warning: 	Moved Permanently for https://packdigital.click/?p=654
+15:21:17	Warning: 	File has moved from https://packdigital.click/?p=654 to https://packdigital.click/canva-pro-w2/
+15:21:17	Warning: 	Moved Permanently for https://packdigital.click/?p=833
+15:21:17	Warning: 	File has moved from https://packdigital.click/?p=833 to https://packdigital.click/entrega-de-material-descargable/
+15:21:17	Warning: 	Retry after error -4 (No data (connection closed)) at link https://packdigital.click/wp-content/uploads/2023/10/pro-2.png (from https://packdigital.click/entrega-de-material-descargable/)
+15:21:17	Warning: 	Moved Permanently for https://packdigital.click/?p=11
+15:21:17	Warning: 	File has moved from https://packdigital.click/?p=11 to https://packdigital.click/hamburguesa-master/
+15:21:17	Warning: 	Retry after error -4 (No data (connection closed)) at link https://packdigital.click/wp-content/uploads/elementor/css/post-1045.css?ver=1713454292 (from https://packdigital.click/material-decargable-canvapro-y-wordpress/)
+15:21:17	Warning: 	Moved Permanently for https://packdigital.click/?p=1045
+15:21:17	Warning: 	File has moved from https://packdigital.click/?p=1045 to https://packdigital.click/material-decargable-canvapro-y-wordpress/
+15:21:17	Warning: 	Retry after error -4 (No data (connection closed)) at link https://packdigital.click/wp-content/uploads/2024/04/Blue-And-White-Modern-Responsive-Website-Development-Services-Instagram-Post-3-1024x1024.png (from https://packdigital.click/material-decargable-canvapro-y-wordpress/)
+15:21:17	Warning: 	Moved Permanently for https://packdigital.click/?p=1127
+15:21:17	Warning: 	File has moved from https://packdigital.click/?p=1127 to https://packdigital.click/material-decargable-wordpress/
+15:21:17	Warning: 	Moved Permanently for https://packdigital.click/?p=1164
+15:21:17	Warning: 	File has moved from https://packdigital.click/?p=1164 to https://packdigital.click/pack-capcut/
+15:21:17	Warning: 	Moved Permanently for https://packdigital.click/?p=81
+15:21:17	Warning: 	File has moved from https://packdigital.click/?p=81 to https://packdigital.click/pack-cursos/
+15:21:17	Warning: 	Moved Permanently for https://packdigital.click/?p=97
+15:21:17	Warning: 	File has moved from https://packdigital.click/?p=97 to https://packdigital.click/pack-frituras/
+15:21:17	Warning: 	Moved Permanently for https://packdigital.click/?p=158
+15:21:17	Warning: 	File has moved from https://packdigital.click/?p=158 to https://packdigital.click/pack-wordpress/
+15:21:17	Warning: 	Retry after error -4 (No data (connection closed)) at link https://packdigital.click/wp-content/uploads/2023/08/2.png (from https://packdigital.click/pack-wordpress/)
+15:21:17	Warning: 	Moved Permanently for https://packdigital.click/?p=1117
+15:21:17	Warning: 	File has moved from https://packdigital.click/?p=1117 to https://packdigital.click/pack-wordpress-oferta-2024/
+15:21:17	Warning: 	Moved Permanently for https://packdigital.click/?p=1025
+15:21:17	Warning: 	File has moved from https://packdigital.click/?p=1025 to https://packdigital.click/pack-wordpress-y-canva/
+15:21:17	Warning: 	Moved Permanently for https://packdigital.click/?p=614
+15:21:17	Warning: 	File has moved from https://packdigital.click/?p=614 to https://packdigital.click/prueba/
+15:21:17	Warning: 	Moved Permanently for https://packdigital.click/?p=4
+15:21:17	Warning: 	File has moved from https://packdigital.click/?p=4 to https://packdigital.click/welcome-to-cloudways/
+15:21:17	Warning: 	File not added due to mirror cancel: https://packdigital.click/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.woff
+15:21:17	Error: 	"mirror stopped by user" (-1) at link https://packdigital.click/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.woff (from https://packdigital.click/wp-content/plugins/elementor/assets/lib/font-awesome/css/solid.min.css?ver=5.15.3)
+15:21:17	Warning: 	File not added due to mirror cancel: https://packdigital.click/wp-content/uploads/2023/01/photo_2022-11-22_15-51-51.jpg
+15:21:17	Error: 	"mirror stopped by user" (-1) at link https://packdigital.click/wp-content/uploads/2023/01/photo_2022-11-22_15-51-51.jpg (from https://packdigital.click/canva-pro-e/)
+15:21:17	Warning: 	File not added due to mirror cancel: https://packdigital.click/wp-content/uploads/2023/01/photo_2022-11-22_16-07-45.jpg
+15:21:17	Error: 	"mirror stopped by user" (-1) at link https://packdigital.click/wp-content/uploads/2023/01/photo_2022-11-22_16-07-45.jpg (from https://packdigital.click/canva-pro-e/)
+15:21:17	Warning: 	File not added due to mirror cancel: https://packdigital.click/wp-content/uploads/2023/01/photo_2022-11-22_16-07-48.jpg
+15:21:17	Error: 	"mirror stopped by user" (-1) at link https://packdigital.click/wp-content/uploads/2023/01/photo_2022-11-22_16-07-48.jpg (from https://packdigital.click/canva-pro-e/)
+15:21:17	Warning: 	File not added due to mirror cancel: https://packdigital.click/?p=659
+15:21:17	Error: 	"mirror stopped by user" (-1) at link https://packdigital.click/?p=659 (from https://packdigital.click/canva-pro-2/)
+15:21:17	Warning: 	File not added due to mirror cancel: https://packdigital.click/wp-content/uploads/2023/07/n1ixozitmrg7bsby9lc7-1024x173-1-1.webp
+15:21:17	Error: 	"mirror stopped by user" (-1) at link https://packdigital.click/wp-content/uploads/2023/07/n1ixozitmrg7bsby9lc7-1024x173-1-1.webp (from https://packdigital.click/canva-pro-w/)
+15:21:17	Warning: 	File not added due to mirror cancel: https://packdigital.click/wp-content/uploads/2023/10/pro-2.png
+15:21:17	Error: 	"mirror stopped by user" (-1) at link https://packdigital.click/wp-content/uploads/2023/10/pro-2.png (from https://packdigital.click/entrega-de-material-descargable/)
+15:21:17	Warning: 	File not added due to mirror cancel: https://packdigital.click/wp-content/uploads/elementor/css/post-1045.css?ver=1713454292
+15:21:17	Error: 	"mirror stopped by user" (-1) at link https://packdigital.click/wp-content/uploads/elementor/css/post-1045.css?ver=1713454292 (from https://packdigital.click/material-decargable-canvapro-y-wordpress/)
+15:21:17	Warning: 	File not added due to mirror cancel: https://packdigital.click/wp-content/uploads/2024/04/Blue-And-White-Modern-Responsive-Website-Development-Services-Instagram-Post-3-1024x1024.png
+15:21:17	Error: 	"mirror stopped by user" (-1) at link https://packdigital.click/wp-content/uploads/2024/04/Blue-And-White-Modern-Responsive-Website-Development-Services-Instagram-Post-3-1024x1024.png (from https://packdigital.click/material-decargable-canvapro-y-wordpress/)
+15:21:17	Warning: 	File not added due to mirror cancel: https://packdigital.click/wp-content/uploads/2023/08/2.png
+15:21:17	Error: 	"mirror stopped by user" (-1) at link https://packdigital.click/wp-content/uploads/2023/08/2.png (from https://packdigital.click/pack-wordpress/)
+
+HTTrack Website Copier/3.49-2 mirror complete in 3 minutes 50 seconds : 337 links scanned, 284 files written (51001802 bytes overall) [38134925 bytes received at 165804 bytes/sec], 16085132 bytes transferred using HTTP compression in 195 files, ratio 15%, 12.1 requests per connection
+(17 errors, 67 warnings, 0 messages)
